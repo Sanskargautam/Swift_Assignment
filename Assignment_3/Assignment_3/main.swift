@@ -92,11 +92,6 @@ func main()
                     print("THANK YOU")
                     temp = false
                     
-                case 10:
-                    print(children)
-                    print(parent)
-                    print(nodes)
-                    
                 default :
                     print(invalidChoice)
                 }
